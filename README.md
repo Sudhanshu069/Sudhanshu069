@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Sudhanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudhanshu069)](https://github.com/Sudhanshu069/github-readme-stats)
+<p align="center">[![Sudhanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudhanshu069)](https://github.com/Sudhanshu069/github-readme-stats)</p>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sudhanshu069&theme=dark)](https://git.io/streak-stats)
