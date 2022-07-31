@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Singh</h1>
-- 🌱 I’m currently learning **DSA**, **Web Development**
+- 🌱 I’m currently learning **DSA , Web Development**
 
 - 💬 Ask me about **C++**, **UI/UX**, **DSA**
 
