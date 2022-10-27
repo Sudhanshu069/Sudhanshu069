@@ -36,6 +36,8 @@ Undergrad Student 2024
 
 ### Badges
 
+[![@sudhanshu069's Holopin board](https://holopin.me/sudhanshu069)](https://holopin.io/@sudhanshu069)
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Sudhanshu069"><img src="https://github-readme-stats.vercel.app/api?username=Sudhanshu069&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sudhanshu069's GitHub stats" /></a>
