@@ -4,11 +4,9 @@ Hi 👋 My name is Sudhanshu Singh
 Undergrad Student 2024
 ----------------------
 
-* 🌍  I'm based in Chandigarh, India
-* ✉️  You can contact me at [singhsudhanshu069@gmail.com](mailto:singhsudhanshu069@gmail.com)
-* 🧠  I'm learning C++, Data Structures and Algorithms and Web Development
-* 🤝  I'm open to collaborating on Hackathons, open-source projects
-* ⚡  Talk to me about algorithms, anime and TV shows
+* 🌍  I'm based in India.
+* 🧠  I'm learning Computer Science
+* 🤝  I'm open to collaborating on open-source projects
 
 ### Skills
 
